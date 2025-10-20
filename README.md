@@ -7,5 +7,3 @@ This project hosts a mobile-first landing page and Cloudflare Pages Functions th
 - Manage a simple SMS conversation: DONE -> request screenshot -> store MMS -> mark VERIFIED
 - Rotate referral links once each hits its configured cap
 - Store proof images in Cloudflare R2 and all state in D1
-
-See the ChatGPT message for full step-by-step deployment instructions.
