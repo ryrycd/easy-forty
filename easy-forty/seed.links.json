@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "url": "https://www.acorns.com/invite/EXAMPLE1",
+      "cap": 2
+    },
+    {
+      "url": "https://www.acorns.com/invite/EXAMPLE2",
+      "cap": 2
+    },
+    {
+      "url": "https://www.acorns.com/invite/EXAMPLE3",
+      "cap": 2
+    }
+  ]
+}
