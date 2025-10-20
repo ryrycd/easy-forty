@@ -1,0 +1,21 @@
+
+name = "easy-forty"
+compatibility_date = "2024-12-01"
+
+[vars]
+BRAND_NAME = "Easy Forty"
+SITE_URL = "https://easyforty.com"
+PLEDGE_AMOUNT = "40"
+SUPPORT_EMAIL = "support@easyforty.com"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "easyforty-db"
+database_id = ""
+
+[[r2_buckets]]
+binding = "PROOFS"
+bucket_name = "easy-forty-proofs"
+
+[observability]
+enabled = true

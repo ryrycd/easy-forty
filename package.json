@@ -1,0 +1,9 @@
+{
+  "name": "easy-forty",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler pages dev ./public --d1=DB",
+    "deploy": "echo 'Deploy via Cloudflare Pages dashboard'"
+  },
+  "devDependencies": {}
+}
